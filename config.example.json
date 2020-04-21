@@ -1,0 +1,7 @@
+{
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "storageBucket": "",
+    "serviceAccount": "path/to/serviceAccountCredentials.json"
+}
